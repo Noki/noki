@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1199](https://github.com/freifunk-berlin/bbb-configs/pull/1199) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-2. 🎉 Merged PR [#1198](https://github.com/freifunk-berlin/bbb-configs/pull/1198) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-3. 🎉 Merged PR [#1197](https://github.com/freifunk-berlin/bbb-configs/pull/1197) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-4. 🗣 Commented on [#25](https://github.com/linuxserver/docker-flexget/issues/25#issuecomment-2708780291) in [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget)
-5. 🗣 Commented on [#141](https://github.com/freifunk-berlin/meta/issues/141#issuecomment-2682650352) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-6. 🎉 Merged PR [#1192](https://github.com/freifunk-berlin/bbb-configs/pull/1192) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-7. ❗ Opened issue [#37](https://github.com/ripplebiz/MeshCore/issues/37) in [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore)
-8. 🗣 Commented on [#132](https://github.com/freifunk-berlin/meta/issues/132#issuecomment-2660759231) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-9. 🔒 Closed issue [#132](https://github.com/freifunk-berlin/meta/issues/132) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-10. 🎉 Merged PR [#1190](https://github.com/freifunk-berlin/bbb-configs/pull/1190) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+1. 🗣 Commented on [#96](https://github.com/ripplebiz/MeshCore/pull/96#issuecomment-2723781406) in [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore)
+2. 💪 Opened PR [#1199](https://github.com/freifunk-berlin/bbb-configs/pull/1199) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+3. 🎉 Merged PR [#1198](https://github.com/freifunk-berlin/bbb-configs/pull/1198) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+4. 🎉 Merged PR [#1197](https://github.com/freifunk-berlin/bbb-configs/pull/1197) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+5. 🗣 Commented on [#25](https://github.com/linuxserver/docker-flexget/issues/25#issuecomment-2708780291) in [linuxserver/docker-flexget](https://github.com/linuxserver/docker-flexget)
+6. 🗣 Commented on [#141](https://github.com/freifunk-berlin/meta/issues/141#issuecomment-2682650352) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+7. 🎉 Merged PR [#1192](https://github.com/freifunk-berlin/bbb-configs/pull/1192) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+8. ❗ Opened issue [#37](https://github.com/ripplebiz/MeshCore/issues/37) in [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore)
+9. 🗣 Commented on [#132](https://github.com/freifunk-berlin/meta/issues/132#issuecomment-2660759231) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+10. 🔒 Closed issue [#132](https://github.com/freifunk-berlin/meta/issues/132) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
 <!--END_SECTION:activity-->
 
 ## Some Stats
