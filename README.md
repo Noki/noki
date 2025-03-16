@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/freifunk-berlin/meta/issues/119#issuecomment-2727239110) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-2. ❗ Opened issue [#145](https://github.com/freifunk-berlin/meta/issues/145) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-3. ❗ Opened issue [#144](https://github.com/freifunk-berlin/meta/issues/144) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-4. 🗣 Commented on [#133](https://github.com/freifunk-berlin/meta/issues/133#issuecomment-2727225259) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-5. 🔒 Closed issue [#122](https://github.com/freifunk-berlin/meta/issues/122) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-6. ❗ Opened issue [#143](https://github.com/freifunk-berlin/meta/issues/143) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-7. 🗣 Commented on [#96](https://github.com/ripplebiz/MeshCore/pull/96#issuecomment-2724247822) in [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore)
-8. 🗣 Commented on [#96](https://github.com/ripplebiz/MeshCore/pull/96#issuecomment-2723781406) in [ripplebiz/MeshCore](https://github.com/ripplebiz/MeshCore)
-9. 💪 Opened PR [#1199](https://github.com/freifunk-berlin/bbb-configs/pull/1199) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-10. 🎉 Merged PR [#1198](https://github.com/freifunk-berlin/bbb-configs/pull/1198) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+1. ❗ Opened issue [#150](https://github.com/freifunk-berlin/meta/issues/150) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+2. ❗ Opened issue [#149](https://github.com/freifunk-berlin/meta/issues/149) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+3. ❗ Opened issue [#148](https://github.com/freifunk-berlin/meta/issues/148) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+4. ❗ Opened issue [#147](https://github.com/freifunk-berlin/meta/issues/147) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+5. ❗ Opened issue [#146](https://github.com/freifunk-berlin/meta/issues/146) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+6. 🗣 Commented on [#119](https://github.com/freifunk-berlin/meta/issues/119#issuecomment-2727239110) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+7. ❗ Opened issue [#145](https://github.com/freifunk-berlin/meta/issues/145) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+8. ❗ Opened issue [#144](https://github.com/freifunk-berlin/meta/issues/144) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+9. 🗣 Commented on [#133](https://github.com/freifunk-berlin/meta/issues/133#issuecomment-2727225259) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+10. 🔒 Closed issue [#122](https://github.com/freifunk-berlin/meta/issues/122) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
 <!--END_SECTION:activity-->
 
 ## Some Stats
