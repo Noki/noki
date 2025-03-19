@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#473](https://github.com/freifunk-berlin/falter-packages/pull/473) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-2. 🗣 Commented on [#473](https://github.com/freifunk-berlin/falter-packages/pull/473#issuecomment-2731893201) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-3. 🎉 Merged PR [#1200](https://github.com/freifunk-berlin/bbb-configs/pull/1200) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-4. 💪 Opened PR [#1200](https://github.com/freifunk-berlin/bbb-configs/pull/1200) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-5. ❗ Opened issue [#151](https://github.com/freifunk-berlin/meta/issues/151) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-6. ❗ Opened issue [#150](https://github.com/freifunk-berlin/meta/issues/150) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-7. ❗ Opened issue [#149](https://github.com/freifunk-berlin/meta/issues/149) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-8. ❗ Opened issue [#148](https://github.com/freifunk-berlin/meta/issues/148) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-9. ❗ Opened issue [#147](https://github.com/freifunk-berlin/meta/issues/147) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-10. ❗ Opened issue [#146](https://github.com/freifunk-berlin/meta/issues/146) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+1. 💪 Opened PR [#475](https://github.com/freifunk-berlin/falter-packages/pull/475) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+2. 🎉 Merged PR [#473](https://github.com/freifunk-berlin/falter-packages/pull/473) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+3. 🗣 Commented on [#473](https://github.com/freifunk-berlin/falter-packages/pull/473#issuecomment-2731893201) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+4. 🎉 Merged PR [#1200](https://github.com/freifunk-berlin/bbb-configs/pull/1200) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+5. 💪 Opened PR [#1200](https://github.com/freifunk-berlin/bbb-configs/pull/1200) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+6. ❗ Opened issue [#151](https://github.com/freifunk-berlin/meta/issues/151) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+7. ❗ Opened issue [#150](https://github.com/freifunk-berlin/meta/issues/150) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+8. ❗ Opened issue [#149](https://github.com/freifunk-berlin/meta/issues/149) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+9. ❗ Opened issue [#148](https://github.com/freifunk-berlin/meta/issues/148) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+10. ❗ Opened issue [#147](https://github.com/freifunk-berlin/meta/issues/147) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
 <!--END_SECTION:activity-->
 
 ## Some Stats
