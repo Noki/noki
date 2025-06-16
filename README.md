@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I am Tobias!
+Hi, I am Tobias Schwarz!
 
 Professionally, I work on optimizing websites and my company [Audisto](https://audisto.com/) develops software for analyzing and monitoring websites and offers it as a SaaS solution.
 
