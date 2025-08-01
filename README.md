@@ -1,4 +1,4 @@
-## About me
+# Tobias Schwarz a.k.a. Noki
 
 Hi, I am Tobias Schwarz!
 
