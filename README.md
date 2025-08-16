@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1330](https://github.com/freifunk-berlin/bbb-configs/issues/1330) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-2. 🎉 Merged PR [#1329](https://github.com/freifunk-berlin/bbb-configs/pull/1329) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-3. 💪 Opened PR [#1329](https://github.com/freifunk-berlin/bbb-configs/pull/1329) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-4. 💪 Opened PR [#1328](https://github.com/freifunk-berlin/bbb-configs/pull/1328) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-5. 🎉 Merged PR [#1327](https://github.com/freifunk-berlin/bbb-configs/pull/1327) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-6. 💪 Opened PR [#1327](https://github.com/freifunk-berlin/bbb-configs/pull/1327) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-7. 🗣 Commented on [#1322](https://github.com/freifunk-berlin/bbb-configs/pull/1322#issuecomment-3182457467) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-8. 💪 Opened PR [#1324](https://github.com/freifunk-berlin/bbb-configs/pull/1324) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-9. 🎉 Merged PR [#1323](https://github.com/freifunk-berlin/bbb-configs/pull/1323) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-10. 🗣 Commented on [#1321](https://github.com/freifunk-berlin/bbb-configs/pull/1321#issuecomment-3165343015) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+1. 🎉 Merged PR [#1326](https://github.com/freifunk-berlin/bbb-configs/pull/1326) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+2. 🎉 Merged PR [#1325](https://github.com/freifunk-berlin/bbb-configs/pull/1325) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+3. ❗ Opened issue [#1330](https://github.com/freifunk-berlin/bbb-configs/issues/1330) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+4. 🎉 Merged PR [#1329](https://github.com/freifunk-berlin/bbb-configs/pull/1329) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+5. 💪 Opened PR [#1329](https://github.com/freifunk-berlin/bbb-configs/pull/1329) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+6. 💪 Opened PR [#1328](https://github.com/freifunk-berlin/bbb-configs/pull/1328) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+7. 🎉 Merged PR [#1327](https://github.com/freifunk-berlin/bbb-configs/pull/1327) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+8. 💪 Opened PR [#1327](https://github.com/freifunk-berlin/bbb-configs/pull/1327) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+9. 🗣 Commented on [#1322](https://github.com/freifunk-berlin/bbb-configs/pull/1322#issuecomment-3182457467) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+10. 💪 Opened PR [#1324](https://github.com/freifunk-berlin/bbb-configs/pull/1324) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
 <!--END_SECTION:activity-->
 
 ## Some Stats
