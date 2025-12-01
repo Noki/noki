@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1472](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-2. 🗣 Commented on [#772](https://github.com/freifunk-berlin/bbb-configs/pull/772#issuecomment-3556439518) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-3. 🗣 Commented on [#3587](https://github.com/truenas/apps/issues/3587#issuecomment-3556025920) in [truenas/apps](https://github.com/truenas/apps)
-4.  Labeled issue [#3643](https://github.com/dgtlmoon/changedetection.io/issues/3643) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-5. ❗ Opened issue [#3643](https://github.com/dgtlmoon/changedetection.io/issues/3643) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-6. 🗣 Commented on [#3587](https://github.com/truenas/apps/issues/3587#issuecomment-3551888354) in [truenas/apps](https://github.com/truenas/apps)
-7. 💪 Opened PR [#1459](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-8. 💪 Opened PR [#1442](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-9. 🗣 Commented on [#1425](https://github.com/freifunk-berlin/bbb-configs/issues/1425#issuecomment-3477557692) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-10. 🔒 Closed issue [#1425](https://github.com/freifunk-berlin/bbb-configs/issues/1425) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+1. 💪 Opened PR [#1473](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+2. 💪 Opened PR [#1472](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+3. 🗣 Commented on [#772](https://github.com/freifunk-berlin/bbb-configs/pull/772#issuecomment-3556439518) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+4. 🗣 Commented on [#3587](https://github.com/truenas/apps/issues/3587#issuecomment-3556025920) in [truenas/apps](https://github.com/truenas/apps)
+5.  Labeled issue [#3643](https://github.com/dgtlmoon/changedetection.io/issues/3643) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+6. ❗ Opened issue [#3643](https://github.com/dgtlmoon/changedetection.io/issues/3643) in [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+7. 🗣 Commented on [#3587](https://github.com/truenas/apps/issues/3587#issuecomment-3551888354) in [truenas/apps](https://github.com/truenas/apps)
+8. 💪 Opened PR [#1459](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+9. 💪 Opened PR [#1442](undefined) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+10. 🗣 Commented on [#1425](https://github.com/freifunk-berlin/bbb-configs/issues/1425#issuecomment-3477557692) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
 <!--END_SECTION:activity-->
 
 ## Some Stats
