@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-2. ❗ Opened issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-3. ℹ️ Labeled issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-4. ❗ Opened issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-5. ℹ️ Labeled issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-6. ❗ Opened issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-7. ℹ️ Assigned issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+1. ❗ Opened issue [#285](https://github.com/freifunk/meshviewer/issues/285) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
+2. ℹ️ Labeled issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+3. ❗ Opened issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+4. ℹ️ Labeled issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+5. ❗ Opened issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+6. ℹ️ Labeled issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+7. ❗ Opened issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
 8. ℹ️ Assigned issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-9. 🔒 Closed issue [#68](https://github.com/freifunk-berlin/meta/issues/68) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-10. 🗣 Commented on [#68](https://github.com/freifunk-berlin/meta/issues/68#issuecomment-3734178844) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+9. ℹ️ Assigned issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+10. 🔒 Closed issue [#68](https://github.com/freifunk-berlin/meta/issues/68) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
 <!--END_SECTION:activity-->
 
 ## Some Stats
