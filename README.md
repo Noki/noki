@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1440](https://github.com/freifunk-berlin/bbb-configs/pull/1440#issuecomment-3765244441) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-2. 🗣 Commented on [#1511](https://github.com/freifunk-berlin/bbb-configs/pull/1511#issuecomment-3765243220) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-3. 🗣 Commented on [#285](https://github.com/freifunk/meshviewer/issues/285#issuecomment-3763040239) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
-4. ❗ Opened issue [#285](https://github.com/freifunk/meshviewer/issues/285) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
-5. ℹ️ Labeled issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-6. ❗ Opened issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-7. ℹ️ Labeled issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-8. ❗ Opened issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-9. ℹ️ Labeled issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
-10. ❗ Opened issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+1. 🗣 Commented on [#1519](https://github.com/freifunk-berlin/bbb-configs/pull/1519#issuecomment-3798294686) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+2. 🗣 Commented on [#1440](https://github.com/freifunk-berlin/bbb-configs/pull/1440#issuecomment-3765244441) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+3. 🗣 Commented on [#1511](https://github.com/freifunk-berlin/bbb-configs/pull/1511#issuecomment-3765243220) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+4. 🗣 Commented on [#285](https://github.com/freifunk/meshviewer/issues/285#issuecomment-3763040239) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
+5. ❗ Opened issue [#285](https://github.com/freifunk/meshviewer/issues/285) in [freifunk/meshviewer](https://github.com/freifunk/meshviewer)
+6. ℹ️ Labeled issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+7. ❗ Opened issue [#201](https://github.com/freifunk-berlin/meta/issues/201) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+8. ℹ️ Labeled issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+9. ❗ Opened issue [#200](https://github.com/freifunk-berlin/meta/issues/200) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
+10. ℹ️ Labeled issue [#199](https://github.com/freifunk-berlin/meta/issues/199) in [freifunk-berlin/meta](https://github.com/freifunk-berlin/meta)
 <!--END_SECTION:activity-->
 
 ## Some Stats
