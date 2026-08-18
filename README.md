@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1716](https://github.com/freifunk-berlin/bbb-configs/pull/1716) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-2. 💪 Opened PR [#1716](https://github.com/freifunk-berlin/bbb-configs/pull/1716) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-3. 🗣 Commented on [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301#issuecomment-5082913080) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-4. 🗣 Commented on [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301#issuecomment-5082329555) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-5. ℹ️ Labeled issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+1. 🗣 Commented on [#1722](https://github.com/freifunk-berlin/bbb-configs/pull/1722#issuecomment-5325871863) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+2. 🎉 Merged PR [#1716](https://github.com/freifunk-berlin/bbb-configs/pull/1716) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+3. 💪 Opened PR [#1716](https://github.com/freifunk-berlin/bbb-configs/pull/1716) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+4. 🗣 Commented on [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301#issuecomment-5082913080) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+5. 🗣 Commented on [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301#issuecomment-5082329555) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 6. ℹ️ Labeled issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-7. ❗ Opened issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-8. 🎉 Merged PR [#1715](https://github.com/freifunk-berlin/bbb-configs/pull/1715) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-9. 💪 Opened PR [#1715](https://github.com/freifunk-berlin/bbb-configs/pull/1715) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-10. 🎉 Merged PR [#1713](https://github.com/freifunk-berlin/bbb-configs/pull/1713) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+7. ℹ️ Labeled issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+8. ❗ Opened issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+9. 🎉 Merged PR [#1715](https://github.com/freifunk-berlin/bbb-configs/pull/1715) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+10. 💪 Opened PR [#1715](https://github.com/freifunk-berlin/bbb-configs/pull/1715) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
 <!--END_SECTION:activity-->
 
 ## Some Stats
