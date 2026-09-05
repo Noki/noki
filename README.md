@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#587](https://github.com/freifunk-berlin/falter-packages/pull/587#issuecomment-5551119548) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-2. 🗣 Commented on [#588](https://github.com/freifunk-berlin/falter-packages/pull/588#issuecomment-5551100865) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-3. 💪 Opened PR [#588](https://github.com/freifunk-berlin/falter-packages/pull/588) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-4. 🗣 Commented on [#583](https://github.com/freifunk-berlin/falter-packages/pull/583#issuecomment-5507212105) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-5. 🗣 Commented on [#583](https://github.com/freifunk-berlin/falter-packages/pull/583#issuecomment-5496605331) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-6. 🗣 Commented on [#1722](https://github.com/freifunk-berlin/bbb-configs/pull/1722#issuecomment-5325871863) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-7. ℹ️ Labeled issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-8. ❗ Opened issue [#13301](https://github.com/paperless-ngx/paperless-ngx/issues/13301) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-9. 🎉 Merged PR [#1715](https://github.com/freifunk-berlin/bbb-configs/pull/1715) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-10. 💪 Opened PR [#1715](https://github.com/freifunk-berlin/bbb-configs/pull/1715) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+1. 🗣 Commented on [#590](https://github.com/freifunk-berlin/falter-packages/issues/590#issuecomment-5552975881) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+2. 🔒 Closed issue [#491](https://github.com/freifunk-berlin/falter-packages/issues/491) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+3. 🗣 Commented on [#549](https://github.com/freifunk-berlin/falter-packages/pull/549#issuecomment-5552826374) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+4. ❌ Closed PR [#549](https://github.com/freifunk-berlin/falter-packages/pull/549) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+5. 🎉 Merged PR [#588](https://github.com/freifunk-berlin/falter-packages/pull/588) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+6. 🎉 Merged PR [#589](https://github.com/freifunk-berlin/falter-packages/pull/589) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+7. 💪 Opened PR [#589](https://github.com/freifunk-berlin/falter-packages/pull/589) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+8. 🗣 Commented on [#587](https://github.com/freifunk-berlin/falter-packages/pull/587#issuecomment-5551119548) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+9. 🗣 Commented on [#588](https://github.com/freifunk-berlin/falter-packages/pull/588#issuecomment-5551100865) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+10. 💪 Opened PR [#588](https://github.com/freifunk-berlin/falter-packages/pull/588) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
 <!--END_SECTION:activity-->
 
 ## Some Stats
