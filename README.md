@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#602](https://github.com/freifunk-berlin/falter-packages/pull/602#issuecomment-5795519675) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-2. 🗣 Commented on [#601](https://github.com/freifunk-berlin/falter-packages/issues/601#issuecomment-5794819988) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-3. 🎉 Merged PR [#1748](https://github.com/freifunk-berlin/bbb-configs/pull/1748) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-4. 💪 Opened PR [#1748](https://github.com/freifunk-berlin/bbb-configs/pull/1748) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-5. ℹ️ Labeled issue [#5802](https://github.com/truenas/apps/issues/5802) in [truenas/apps](https://github.com/truenas/apps)
-6. ❗ Opened issue [#5802](https://github.com/truenas/apps/issues/5802) in [truenas/apps](https://github.com/truenas/apps)
-7. 🎉 Merged PR [#1744](https://github.com/freifunk-berlin/bbb-configs/pull/1744) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-8. 💪 Opened PR [#1744](https://github.com/freifunk-berlin/bbb-configs/pull/1744) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-9. 🗣 Commented on [#362](https://github.com/freifunk-berlin/falter-packages/issues/362#issuecomment-5589561656) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
-10. 🗣 Commented on [#289](https://github.com/freifunk-berlin/falter-packages/issues/289#issuecomment-5589537619) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+1. 💪 Opened PR [#1752](https://github.com/freifunk-berlin/bbb-configs/pull/1752) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+2. 🗣 Commented on [#602](https://github.com/freifunk-berlin/falter-packages/pull/602#issuecomment-5795519675) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+3. 🗣 Commented on [#601](https://github.com/freifunk-berlin/falter-packages/issues/601#issuecomment-5794819988) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
+4. 🎉 Merged PR [#1748](https://github.com/freifunk-berlin/bbb-configs/pull/1748) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+5. 💪 Opened PR [#1748](https://github.com/freifunk-berlin/bbb-configs/pull/1748) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+6. ℹ️ Labeled issue [#5802](https://github.com/truenas/apps/issues/5802) in [truenas/apps](https://github.com/truenas/apps)
+7. ❗ Opened issue [#5802](https://github.com/truenas/apps/issues/5802) in [truenas/apps](https://github.com/truenas/apps)
+8. 🎉 Merged PR [#1744](https://github.com/freifunk-berlin/bbb-configs/pull/1744) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+9. 💪 Opened PR [#1744](https://github.com/freifunk-berlin/bbb-configs/pull/1744) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+10. 🗣 Commented on [#362](https://github.com/freifunk-berlin/falter-packages/issues/362#issuecomment-5589561656) in [freifunk-berlin/falter-packages](https://github.com/freifunk-berlin/falter-packages)
 <!--END_SECTION:activity-->
 
 ## Some Stats
