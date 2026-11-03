@@ -24,16 +24,16 @@ If you want to know more about me head over to my [personal website](https://www
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1791](https://github.com/freifunk-berlin/bbb-configs/pull/1791) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-2. 💪 Opened PR [#1791](https://github.com/freifunk-berlin/bbb-configs/pull/1791) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-3. 🗣 Commented on [#1788](https://github.com/freifunk-berlin/bbb-configs/pull/1788#issuecomment-6446520012) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-4. 🔒 Closed issue [#1779](https://github.com/freifunk-berlin/bbb-configs/issues/1779) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-5. 💪 Opened PR [#1782](https://github.com/freifunk-berlin/bbb-configs/pull/1782) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-6. 🎉 Merged PR [#1777](https://github.com/freifunk-berlin/bbb-configs/pull/1777) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-7. 💪 Opened PR [#1777](https://github.com/freifunk-berlin/bbb-configs/pull/1777) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
-8. 🗣 Commented on [#1](https://github.com/Noki/the-lampster/issues/1#issuecomment-6198989421) in [Noki/the-lampster](https://github.com/Noki/the-lampster)
-9. 🔒 Closed issue [#1](https://github.com/Noki/the-lampster/issues/1) in [Noki/the-lampster](https://github.com/Noki/the-lampster)
-10. 🗣 Commented on [#1767](https://github.com/freifunk-berlin/bbb-configs/pull/1767#issuecomment-6186841313) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+1. 💪 Opened PR [#1793](https://github.com/freifunk-berlin/bbb-configs/pull/1793) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+2. 🎉 Merged PR [#1791](https://github.com/freifunk-berlin/bbb-configs/pull/1791) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+3. 💪 Opened PR [#1791](https://github.com/freifunk-berlin/bbb-configs/pull/1791) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+4. 🗣 Commented on [#1788](https://github.com/freifunk-berlin/bbb-configs/pull/1788#issuecomment-6446520012) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+5. 🔒 Closed issue [#1779](https://github.com/freifunk-berlin/bbb-configs/issues/1779) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+6. 💪 Opened PR [#1782](https://github.com/freifunk-berlin/bbb-configs/pull/1782) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+7. 🎉 Merged PR [#1777](https://github.com/freifunk-berlin/bbb-configs/pull/1777) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+8. 💪 Opened PR [#1777](https://github.com/freifunk-berlin/bbb-configs/pull/1777) in [freifunk-berlin/bbb-configs](https://github.com/freifunk-berlin/bbb-configs)
+9. 🗣 Commented on [#1](https://github.com/Noki/the-lampster/issues/1#issuecomment-6198989421) in [Noki/the-lampster](https://github.com/Noki/the-lampster)
+10. 🔒 Closed issue [#1](https://github.com/Noki/the-lampster/issues/1) in [Noki/the-lampster](https://github.com/Noki/the-lampster)
 <!--END_SECTION:activity-->
 
 ## Some Stats
